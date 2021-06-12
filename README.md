@@ -1,6 +1,6 @@
-A New kindOf Network
+# A New kindOf Network
 
-A social networking app
+## A social networking app
 
 ## Getting Started
 
