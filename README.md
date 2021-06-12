@@ -1,6 +1,6 @@
-# a_new_kindof_network
+A New kindOf Network
 
-A new Flutter project.
+A social networking app
 
 ## Getting Started
 
